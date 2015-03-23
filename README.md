@@ -19,5 +19,26 @@ all require basic input and output processing, and good coding fundamentals.
 1. (D) TrigAbyss
 1. (E) BoxDecipher
 1. (F) Shopping
+1. (G) RationalNum
+1. (H) Birthday
+1. (I) Maze
+1. (J) Coma
+1. (K) ShootingSpiders
+1. (L) Cliquey
 
 ### Advanced
+The first 8 problems are actually reused from the Novice questions. For the rest 4 problems, knowledge of common
+(and sometimes not-so-common) algorithms is helpful. The idea is to apply algorithms instead of brute-force approach.
+
+1. (A) BoxDecipher, same as Novice (E)
+2. (B) Shopping, same as Novice (F)
+3. (C) RationalNum, same as Novice (G)
+4. (D) Birthday, same as Novice (H)
+5. (E) Maze, same as Novice (I)
+6. (F) Coma, same as Novice (J)
+7. (G) ShootingSpiders, same as Novice (K)
+8. (H) Cliquey, same as Novice (L)
+9. (I) CrossMarshes
+10. (J) HeightsGame
+11. (K) FractionalWarfare
+12. (L) EagleRescue
